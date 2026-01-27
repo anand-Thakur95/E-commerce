@@ -1,11 +1,10 @@
-
+import React from "react"
 
 function App() {
   
 
   return (
-   <div>hello guys
-
+   <div className="bg-black text-white">
    </div>
   )
 }
